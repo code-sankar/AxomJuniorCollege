@@ -1,0 +1,20 @@
+#root {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  scroll-behavior: smooth;
+  overflow: scroll;
+  overflow-x: hidden;
+
+  
+}
+.header{
+  border-bottom: 1px solid black;
+}
+ /* Sliding Image Section */
+.sliding-img{
+  height: 650px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
